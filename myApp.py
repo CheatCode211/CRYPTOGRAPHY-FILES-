@@ -9,8 +9,8 @@ import os
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'root001',
-    'database': 'CreditVault'
+    'password': '',
+    'database': ''
 }
 
 KEY_FILE = 'encryption.key'
